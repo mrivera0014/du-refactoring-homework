@@ -11,3 +11,7 @@ As far as the css code, I didn't make any changes. What I did do was go through 
 The consolidation part was difficult for me because I missed some parts such as ".search-engine-optimization img" vs ".search-engine-optimization." What was worse is that I didn't refresh my page every time I consolidated sections so when I was finished I noticed stuff had shifted. This lead to me having to go back and redo my work but constantly refreshing the second time around.
 
 This project with no doubt taught me a few things that will help me with future projects.
+
+https://mrivera0014.github.io/du-week-1-refactoring-homework/
+
+https://github.com/mrivera0014/du-week-1-refactoring-homework
